@@ -1,0 +1,17 @@
+{
+    "products": [
+        {
+            "nombre": "monitor",
+            "precio": 2000
+        },{
+            "nombre": "mouse",
+            "precio": 1500
+        },{
+            "nombre": "termo",
+            "precio": 800
+        },{
+            "nombre": "tomate",
+            "precio": 20
+        }
+    ]
+}
